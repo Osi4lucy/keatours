@@ -1,3 +1,3 @@
-# Natours Application
+# Keatours Application 
 
-Built using modern technologies: node.js, express, mongoDB, mongoose and friends 😁
+For Node.js exams 😁
